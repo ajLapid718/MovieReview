@@ -7,6 +7,7 @@ end
 
 # Gem Additions Below
 gem 'coffee-script-source', '1.8.0'
+gem 'devise'
 # Gem Additions Above
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
