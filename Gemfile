@@ -12,6 +12,7 @@ gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'b
 gem 'paperclip'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
+gem 'searchkick'
 # Gem Additions Above
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
